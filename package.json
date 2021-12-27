@@ -1,7 +1,7 @@
 {
-  "name": "jocker_v2",
+  "name": "sneha",
   "version": "7.3.6",
-  "description": "jockerser is the Modified Version of WhatsAsena, Made By @jockersir with Baileys.",
+  "description": "sneha bot is the Modified Version of WhatsAsena, Made By @jockersir with Baileys.",
   "main": "./jocker_v2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -17,7 +17,7 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "jockersir",
+  "author": "sneha bot",
   "developer": "@niiin-husni / @jockersir",
   "license": "GPL-3.0-or-later",
   "bugs": {
