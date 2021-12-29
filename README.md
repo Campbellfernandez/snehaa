@@ -17,7 +17,7 @@ Project created by <a href="https://github.com/pocosir">pocosir</a> to make it p
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jockersir/jocker_v2&title=jocker_v2%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pocosir/sneha&title=sneha%20Views)
 
 ## Setup
 <div align="center">
