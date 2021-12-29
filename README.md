@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://i.ibb.co/WyD8S5V/20211210-201533.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="IMG-20211210-WA0528.jpg" alt="GIF" width="250" height="250"/>
+        <img src="IMG-20211229_075426.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
 <a href="#"><img title="jocker_v2" src="https://img.shields.io/badge/jocker_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
