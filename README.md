@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/sneha">pocosir</a> to make it pub
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Bensus/sneha)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pocosir/sneha)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pocosir/sneha) 
