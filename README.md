@@ -3,10 +3,10 @@
         <img src="IMG-20211229_075426.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="jocker_v2" src="https://img.shields.io/badge/jocker_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="pocosir" src="https://img.shields.io/badge/poco_sir-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/jockersir"><img title="Author" src="https://img.shields.io/badge/Author-jockersir-/jocker_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/pocosir"><img title="Author" src="https://img.shields.io/badge/Author-pocosir-/sneha?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
